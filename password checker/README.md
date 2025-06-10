@@ -43,7 +43,7 @@ Link:- https://harshwardhan2020.github.io/password-strength-checker/
 
 ## 📸 Screenshot
 
-![Password Strength Checker](C:\coding\password_analyzer.png)
+![Password Strength Checker](password checker/password_analyzer.png)
 
 
 
