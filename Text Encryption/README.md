@@ -53,7 +53,7 @@ To run this project
 
 ## 📸 Screenshot
 
-![Text Encryption Tool](assets/screenshot.png)
+![Text Encryption Tool](./text encryption.png)
 ## ⚡ Optimizations
 
 Here are some potential enhancements for future improvements:
