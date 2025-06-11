@@ -139,13 +139,7 @@ Ensure you have the following installed:
 - **Python 3.x** (Recommended: 3.8 or later)
 - Required libraries: `tkinter`, `tkinterdnd2`, `cryptography`
 - (Optional) **PyInstaller** for creating an executable file
-
-### 🔹 Steps to Install
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/harshwardhan2020/text_encryption.git
-   cd text-encryption-tool
+  
 ## 👤 Author
 
 - **Harshwardhan Patil** – Developer & Creator of Text Encryption Tool
