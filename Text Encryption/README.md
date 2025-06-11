@@ -53,7 +53,7 @@ To run this project
 
 ## 📸 Screenshot
 
-![Text Encryption Screenshot](text_encryption.png)
+![Text Encryption Screenshot](text%20encryption.png)
 ## ⚡ Optimizations
 
 Here are some potential enhancements for future improvements:
