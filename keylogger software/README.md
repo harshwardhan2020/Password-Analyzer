@@ -120,7 +120,7 @@ During development, several optimizations were implemented to enhance **performa
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot](keylogger.png)
 
 ## ❓ FAQ
 
